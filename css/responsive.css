@@ -1,0 +1,5 @@
+@media (max-width: 48rem) {
+  nav {
+    gap: 0.5rem;
+  }
+}
